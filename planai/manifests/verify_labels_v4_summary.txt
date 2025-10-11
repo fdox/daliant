@@ -1,0 +1,6 @@
+Export stems (new): 21
+New images linked/copied: 21
+Images missing for new stems: 0  (first 10: [])
+Manifest image lines: 133
+Labels with no matching image in train: 0  (first 10: [])
+Class-id distribution in train (expect only 0 and 1): {0: 494, 1: 457}

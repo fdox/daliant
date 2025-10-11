@@ -1,0 +1,4 @@
+nc: 2
+names: [recessed_can, switch]
+train: /Users/dox/daliant/planai/manifests/train_v4.txt
+val: yolo_2labels/images/val

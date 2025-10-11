@@ -1,0 +1,4 @@
+nc: 3
+names: [recessed_can_A, recessed_can_B, switch]
+train: /Users/dox/daliant/planai/manifests/train_3labels_v5.txt
+val: yolo_2labels/images/val
