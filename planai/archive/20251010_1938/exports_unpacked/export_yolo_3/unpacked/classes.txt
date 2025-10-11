@@ -1,0 +1,2 @@
+recessed_can
+switch

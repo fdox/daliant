@@ -1,0 +1,4 @@
+nc: 2
+names: [recessed_can, switch]
+train: manifests/train_v3b.txt
+val: yolo_2labels/images/val

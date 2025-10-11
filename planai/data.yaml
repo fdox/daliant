@@ -1,0 +1,14 @@
+path: .
+train: yolo_dataset/images/train
+val: yolo_dataset/images/val
+names:
+- 3-way_switch
+- 4-way_switch
+- ceiling_fan
+- exhaust_fan
+- floor_outlet
+- j_box
+- panel_symbol
+- recessed_can
+- switch
+- troffer

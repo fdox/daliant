@@ -1,0 +1,18 @@
+Manifest: /Users/dox/daliant/planai/manifests/train_v3b.txt  (images listed: 112)
+Labels without matching images after fixups: 0
+Class-id distribution in train labels (should be only 0/1): {0: 401, 1: 364}
+
+[export_yolo_2]
+  labels_total: 45
+  labels_copied_to_train: 38
+  images_linked_or_copied: 45
+  images_missing_count: 0
+  labels_in_manifest: 45
+
+[export_yolo_3]
+  labels_total: 43
+  labels_copied_to_train: 0
+  images_linked_or_copied: 43
+  images_missing_count: 0
+  labels_in_manifest: 43
+

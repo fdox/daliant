@@ -1,0 +1,49 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "3-way_switch"
+    },
+    {
+      "id": 1,
+      "name": "4-way_switch"
+    },
+    {
+      "id": 2,
+      "name": "ceiling_fan"
+    },
+    {
+      "id": 3,
+      "name": "exhaust_fan"
+    },
+    {
+      "id": 4,
+      "name": "floor_outlet"
+    },
+    {
+      "id": 5,
+      "name": "j_box"
+    },
+    {
+      "id": 6,
+      "name": "panel_symbol"
+    },
+    {
+      "id": 7,
+      "name": "recessed_can"
+    },
+    {
+      "id": 8,
+      "name": "switch"
+    },
+    {
+      "id": 9,
+      "name": "troffer"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

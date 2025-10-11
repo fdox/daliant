@@ -1,0 +1,4 @@
+Total train pairs: 74
+Curated_new included: 36
+Missing images (count): 0
+Class-id distribution: {0: 243, 1: 232}

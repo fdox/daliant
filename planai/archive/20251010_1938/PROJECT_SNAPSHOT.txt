@@ -1,0 +1,12 @@
+Snapshot @ 2025-10-10 19:40:33
+Train images: 112   Train labels: 112   Val images: 7
+Available model runs (with best.pt):
+  - plans_2lab_v1
+  - plans_2lab_v2
+  - plans_2lab_v3
+  - plans_2lab_v3b
+Current candidate: /Users/dox/daliant/planai/models/2labels/v3b/best.pt  (exists: True)
+Archived this pass:
+  - /Users/dox/daliant/planai/archive/20251010_1938/runs_pred (exists: True)
+  - /Users/dox/daliant/planai/archive/20251010_1938/tiles_temp (exists: True)
+  - /Users/dox/daliant/planai/archive/20251010_1938/exports_unpacked (exists: True)

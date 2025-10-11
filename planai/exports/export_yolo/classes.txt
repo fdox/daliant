@@ -1,0 +1,10 @@
+3-way_switch
+4-way_switch
+ceiling_fan
+exhaust_fan
+floor_outlet
+j_box
+panel_symbol
+recessed_can
+switch
+troffer

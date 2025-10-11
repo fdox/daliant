@@ -1,0 +1,6 @@
+path: .
+train: yolo_2labels/images/train
+val: yolo_2labels/images/val
+names:
+- recessed_can
+- switch
