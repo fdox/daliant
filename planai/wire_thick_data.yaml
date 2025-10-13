@@ -1,0 +1,3 @@
+names: [wire]
+train: datasets/wire_thick/train/images
+val:   datasets/wire_thick/val/images
