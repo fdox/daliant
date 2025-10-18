@@ -1,6 +1,8 @@
-datasets/wire/val/images/Electrical_Plan_Test1_p001_x02_y05.png
-datasets/wire/val/images/Electrical_Plan_Test1_p001_x04_y00.png
-datasets/wire/val/images/Electrical_Plan_Test1_p001_x04_y03.png
-datasets/wire/val/images/Electrical_Plan_Test1_p001_x05_y00.png
-datasets/wire/val/images/Electrical_Plan_Test1_p001_x06_y00.png
-datasets/wire/val/images/Electrical_Plan_Test1_p001_x08_y03.png
+datasets/wire/val/images/Electrical_Plan_Test3_p001_x1075_y3225_s1536.png
+datasets/wire/val/images/Electrical_Plan_Test3_p001_x1075_y4300_s1536.png
+datasets/wire/val/images/Electrical_Plan_Test3_p001_x3225_y5664_s1536.png
+datasets/wire/val/images/Electrical_Plan_Test3_p001_x7525_y1075_s1536.png
+datasets/wire/val/images/Electrical_Plan_Test3_p001_x7525_y4300_s1536.png
+datasets/wire/val/images/Electrical_Plan_Test3_p001_x8600_y2150_s1536.png
+datasets/wire/val/images/Electrical_Plan_Test3_p001_x9264_y0_s1536.png
+datasets/wire/val/images/Electrical_Plan_Test3_p001_x9264_y3225_s1536.png
